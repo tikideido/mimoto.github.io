@@ -81,7 +81,7 @@ main p a, main p a:hover { color:#e56b14; font-weight: bold; text-decoration:non
 main ul            { list-style: none;  margin-top: 50px; margin-bottom: 10px; }
 main li::before    { content: "•"; color: #e56b14; display: inline-block; width: 1em; margin-left: -1em; line-height: 40px; }
 
-main nav .internalmenu      { font-weight: normal; color: #bbbbbb; font-weight: }
+main nav .internalmenu      { font-weight: normal; color: #bbbbbb; }
 main nav a, main nav a:hover     { font-weight: normal; color: #e56b14; }
 main nav a:hover   { text-decoration: underline; }
 main nav ul        { list-style: none; letter-spacing: 2px; }
